@@ -38,9 +38,9 @@ Apasionado por la tecnología, el desarrollo de software y la optimización de p
 ---
 
 ## 🌎 Conéctate conmigo  
-- 💼 [LinkedIn](https://linkedin.com/in/jhcastro99)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhonniercastromontero)  
 - 🐙 [GitHub](https://github.com/jhcastro99)  
-- 📧 **jhonnier.castro@example.com**  
+- 📧 **Jhonnier_199@hotmail.com**  
 
 ---
 
